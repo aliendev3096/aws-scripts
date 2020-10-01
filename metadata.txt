@@ -1,0 +1,16 @@
+ec2-52-91-96-174.compute-1.amazonaws.com
+info
+security-credentials/
+webservers
+ec2-52-91-96-174.compute-1.amazonaws.com
+info
+security-credentials/
+webservers
+ec2-52-91-96-174.compute-1.amazonaws.com
+{
+  "Code" : "Success",
+  "LastUpdated" : "2020-10-01T23:03:43Z",
+  "InstanceProfileArn" : "arn:aws:iam::810864290348:instance-profile/S3-FullAccess",
+  "InstanceProfileId" : "AIPA3ZS2HFIWFSM3NOAWF"
+}
+webservers
